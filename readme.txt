@@ -6,4 +6,4 @@ testimages: 1000 test digits (around 100 from each class), encoded in the same f
 
 testlabels: ground truth labels for testimages.
 
-naive_baes: source code file
+naive_bayes: source code file
